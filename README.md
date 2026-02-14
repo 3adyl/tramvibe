@@ -1,3 +1,3 @@
-Wyświetlacz najbliższych odjazdów z przystanków WTP w aglomeracji Warszawskiej.
+Wyświetlacz najbliższych odjazdów, według rozkładu jazdy z [API](https://api.um.warszawa.pl/), z przystanków WTP w aglomeracji Warszawskiej.
 
-<img width="1891" height="1070" alt="obraz" src="https://github.com/user-attachments/assets/bb1ea70d-f51a-485e-8e5c-52e6fe825e36" />
+<img width="1920" height="1080" alt="obraz" src="https://github.com/user-attachments/assets/a82b2dde-aa26-4247-83c5-6ba5f74d9913" />
